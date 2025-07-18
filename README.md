@@ -5,10 +5,10 @@ A **simple desktop application** that displays a real-time digital clock using *
 
 ## 🎯 Features
 
-- 🕒 Real-time clock updated every second  
+- 🕒 Real-time clock updated every second, Stopwatch and Alarm
 - 🖥️ Graphical User Interface using `JFrame`  
 - 🧠 Uses `SimpleDateFormat` and `Timer` for efficient time rendering  
-- 🎨 Bold, centered time display with clean design  
+- 🎨 Bold, centered time display with clean design
 
 
 ## 📁 Project Structure
@@ -27,7 +27,6 @@ DigitalClock/
 ## 🔧 Possible Enhancements
 - Add current date below the clock
 - Switch between 12-hour / 24-hour formats
-- Apply themes like Dark Mode
 - Package as a runnable .jar file
 
 ## 🤝 Contributing
